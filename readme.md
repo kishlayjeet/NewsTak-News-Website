@@ -16,4 +16,4 @@ Hi, This is a news website using news API that I have built using Bootstrap.
 * NewsAPI
 
 ## Screenshots
-![NewsTak website screenshot]()
+![NewsTak website screenshot](https://github.com/kishlayjeet/NewsTak-News-Website/blob/main/preview.png?raw=true)
