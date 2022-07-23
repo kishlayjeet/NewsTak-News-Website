@@ -1,9 +1,9 @@
 # NewsTak: The most recent news website 🗞️
 Hi, This is a news website using news API that I have built using Bootstrap.
 
-## For the latest news updates, we use NewsApi 🗞️
+### For the latest news updates, we use NewsApi 🗞️
 
-## You can visit if you want to use this API. [NewsApi](https://newsapi.org)
+### You can visit if you want to use this API. [NewsApi](https://newsapi.org)
 
 ## Installation
 * Clone the repository
